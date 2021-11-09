@@ -68147,7 +68147,7 @@ o=T.cq(P.ao(P.ao(o,!0,o.$ti.i("aQ.E")),!0,q),C.q,C.a9,C.n,l)
 n=J.CT(b.gny(),8,11)
 n=J.i8(n,new A.a8L(),t.qy)
 n=T.cq(P.ao(P.ao(n,!0,n.$ti.i("aQ.E")),!0,q),C.q,C.a9,C.n,l)
-m=J.CT(b.gny(),11,13)
+m=J.CT(b.gny(),11,12)
 m=J.i8(m,new A.a8M(),t.qy)
 h=T.br(H.b([h,p,o,n,T.cq(P.ao(P.ao(m,!0,m.$ti.i("aQ.E")),!0,q),C.q,C.a9,C.n,l)],s),C.q,C.Q,C.n)}return M.nZ(l,C.j,new N.mq(T.hN(C.aT,H.b([E.fS(T.br(H.b([g,new K.mo("Let Us Tell You Our Story","The digitalized world we live in offers some amazing tools to enable an online hackathon but there is nothing like the experience of working on a project the whole night together with other crazy people. Last years Ideahack was an incredible experience and we cant wait to host another in person hackathon.",l),new K.mo("Vision","To become a leading international Society that exploits fully the intellectual wealth of ICT students to promote inclusive and sustainable national development.",l),new K.mo("Mission","To empower innovative and creative young students to promote human socio-economic development through application of affordable and effective ICTs.",l),new K.mo("Motto","Aspire Creativity and Innovation for Humanity",l),f,M.V(l,h,C.k,l,l,l,new V.aa(0,0,0,16),new V.aa(0,20,0,20),r),new Z.kU(l)],s),C.q,C.Q,C.n),i,C.z,new L.iO(l),C.m)],s),C.aP),j,k,l),l)},
 $C:"$3",
