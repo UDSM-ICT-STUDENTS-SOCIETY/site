@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "manifest.json": "72293c4a34d3ef97659535f2ebb38590",
-"index.html": "37704f27cae0d7356da15ce0bc21eb37",
-"/": "37704f27cae0d7356da15ce0bc21eb37",
+"index.html": "cec9bfb47c78b6163d077f8ddbd1f8e1",
+"/": "cec9bfb47c78b6163d077f8ddbd1f8e1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-Bold.ttf": "9eef86c1f9efa78ab93d41a0551948f7",
@@ -33,7 +33,8 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "ffed6899ceb84c60a1efa51c809a57e4",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "eaed33dc9678381a55cb5c13edaf241d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "3241d1d9c15448a4da96df05f3292ffe",
-"assets/images/icon/cancel.svg": "08308361d8f89d6edccfa842f85aa685",
+"assets/images/icon/about_us3.png": "1007c5793f002838cb06d87f808bd13c",
+"assets/images/icon/cancel.svg": "25e2cfbc029f906f2d58a4c6da5311aa",
 "assets/images/icon/innovationIcon.png": "c3a49bc58923b27d45ee87b68f7d5881",
 "assets/images/icon/advisor.jpeg": "f941937cf00412747fb0cb18a2e4488a",
 "assets/images/icon/event.png": "fe32ee37b4826e8c5c147a84c3b9dcbb",
@@ -48,11 +49,11 @@ const RESOURCES = {
 "assets/images/logo/udsm.png": "466bf0130a05ddfe4c2559e3e0aa5d70",
 "assets/images/logo/IET_Logo.png": "d22630abce0aeaa4d1edc3cb42eb4020",
 "assets/FontManifest.json": "3ba95e877e8d977ed295b7a8efefeff7",
-"assets/AssetManifest.json": "ab4feba05502ba05e62495f51b234ced",
+"assets/AssetManifest.json": "53dc9ddd804e24358ccc6713f92eedc3",
 "assets/NOTICES": "9d112543ccadd5207b71a4f165424044",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "version.json": "3425e79b7a6c0a3c1a33464e4afb9861",
-"main.dart.js": "0cf7b9ab57ae7d16d667873c564e9c16",
+"main.dart.js": "959411b5b63346916bd6c30cc00d8ca3",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796"
 };
 
