@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "manifest.json": "72293c4a34d3ef97659535f2ebb38590",
-"index.html": "cec9bfb47c78b6163d077f8ddbd1f8e1",
-"/": "cec9bfb47c78b6163d077f8ddbd1f8e1",
+"index.html": "68aba9f21dc65f9b72b026c8a5f4acf6",
+"/": "68aba9f21dc65f9b72b026c8a5f4acf6",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-Bold.ttf": "9eef86c1f9efa78ab93d41a0551948f7",
@@ -46,14 +46,16 @@ const RESOURCES = {
 "assets/images/icon/projects.png": "0e3f99fbd4d6a53d2269558378454006",
 "assets/images/icon/uiss.png": "4179bf09f64edaaca5a3886aab441646",
 "assets/images/icon/program.png": "c54e4b92e69807243e0d2948b0dc896e",
+"assets/images/logo/igf.png": "51d5b1f530c0f6b9bb4296fbb87eb93f",
 "assets/images/logo/udsm.png": "466bf0130a05ddfe4c2559e3e0aa5d70",
+"assets/images/logo/tcra.png": "8f9dc873ee9d222b5f8eb0afa63998ef",
 "assets/images/logo/IET_Logo.png": "d22630abce0aeaa4d1edc3cb42eb4020",
 "assets/FontManifest.json": "3ba95e877e8d977ed295b7a8efefeff7",
-"assets/AssetManifest.json": "53dc9ddd804e24358ccc6713f92eedc3",
+"assets/AssetManifest.json": "1956cdc99d765ed1c0a3f804e7325ea2",
 "assets/NOTICES": "9d112543ccadd5207b71a4f165424044",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "version.json": "3425e79b7a6c0a3c1a33464e4afb9861",
-"main.dart.js": "959411b5b63346916bd6c30cc00d8ca3",
+"main.dart.js": "91c2540159c7baf4c16220105d768b21",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796"
 };
 
